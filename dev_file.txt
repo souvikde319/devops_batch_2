@@ -1,2 +1,3 @@
 this is a dev filethis is a dev file
 this is one more new feature 
+this is remote change to create conflict
